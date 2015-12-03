@@ -1,0 +1,2 @@
+# genetag
+GENETAG corpus
